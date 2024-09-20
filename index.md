@@ -17,6 +17,7 @@
 
 ボードゲームのルーレットを魔改造して、思い通りの数字を出せるようにしました。内蔵したDCモーターでブレーキをかけて停止位置を制御します。
 
+[https://www.youtube.com/watch?v=KO91HQKmbec](https://www.youtube.com/watch?v=KO91HQKmbec)
 [![人生を制御するルーレット](https://img.youtube.com/vi/KO91HQKmbec/0.jpg)](https://www.youtube.com/watch?v=KO91HQKmbec)
 
 ### Scrathでペンプロッター(2023年)
@@ -31,12 +32,14 @@
 
 https://protopedia.net/prototype/1877
 
+[https://www.youtube.com/watch?v=6Xu61IOcya0](https://www.youtube.com/watch?v=6Xu61IOcya0)
 [![IoTおままごとキッチン](https://img.youtube.com/vi/6Xu61IOcya0/0.jpg)](https://www.youtube.com/watch?v=6Xu61IOcya0)
 
 ### いないいないさあぼ(2018年)
 
 「OK Google, いないいないばあして」と話すと、サーボモーターが動いて「いないいないばあ」をしてくれます。
 
+[https://www.youtube.com/watch?v=Rwggodhm_F4](https://www.youtube.com/watch?v=Rwggodhm_F4)
 [![いないいないさあぼ](https://img.youtube.com/vi/Rwggodhm_F4/0.jpg)](https://www.youtube.com/watch?v=Rwggodhm_F4)
 
 ### 結婚披露宴演出システム(2014年)
@@ -50,11 +53,13 @@ https://fabble.cc/ktetsuo/weddingled
 
 ミニ四駆のプロトセイバーにSTM32マイコンを内蔵してライントレースカーにしました。
 
+[https://www.youtube.com/watch?v=QVg7UyULcW0](https://www.youtube.com/watch?v=QVg7UyULcW0)
 [![プロトセイバーSTM](https://img.youtube.com/vi/QVg7UyULcW0/0.jpg)](https://www.youtube.com/watch?v=QVg7UyULcW0)
 
 ### ブラックセイバーAVR(2008年)
 
 ミニ四駆のプロトセイバーにAVRマイコンを内蔵してライントレースカーにしました。
 
+[https://www.youtube.com/watch?v=V_Oxi_zkYIA](https://www.youtube.com/watch?v=V_Oxi_zkYIA)
 [![ブラックセイバーAVR](https://img.youtube.com/vi/V_Oxi_zkYIA/0.jpg)](https://www.youtube.com/watch?v=V_Oxi_zkYIA)
 
