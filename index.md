@@ -30,7 +30,7 @@
 
 娘のために、点火できるおままごとキッチンを作りました。ボリュームを回すと、LEDの火が灯ります。炎っぽくするために、1/fゆらぎをプログラミングしました。
 
-https://protopedia.net/prototype/1877
+[https://protopedia.net/prototype/1877](https://protopedia.net/prototype/1877)
 
 [https://www.youtube.com/watch?v=6Xu61IOcya0](https://www.youtube.com/watch?v=6Xu61IOcya0)
 [![IoTおままごとキッチン](https://img.youtube.com/vi/6Xu61IOcya0/0.jpg)](https://www.youtube.com/watch?v=6Xu61IOcya0)
@@ -46,7 +46,7 @@ https://protopedia.net/prototype/1877
 
 結婚披露宴を光で彩るLED行灯を自作し、実際に作者の結婚式で使用しました。「せーの」の声とともに魔法のステッキを振ると、各テーブルに１つずつ置いてある11個のLED行灯が七色に光輝きます。
 
-https://fabble.cc/ktetsuo/weddingled
+[https://fabble.cc/ktetsuo/weddingled](https://fabble.cc/ktetsuo/weddingled)
 ![結婚披露宴演出システム](weddingled.png)
 
 ### プロトセイバーSTM(2010年)
